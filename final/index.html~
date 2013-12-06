@@ -1,0 +1,11 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<link rel="stylesheet" href="./style.css">
+	<script src="http://code.createjs.com/tweenjs-0.4.1.min.js"></script>
+	<script src="./three.min.js"></script>
+</head>
+<body>
+	<script src="./main.js"></script>
+</body>
+</html>
